@@ -7,4 +7,20 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 ### Project Purpose
 The main purpose of the project is to determine whether the loans provided by LendingClub will default or not with the given features, which can help the company make more sensible decisions in different business scenarios.
 ### Dataset Information
-The dataset contains information about the past loans provided by LendingClub. There are 396030 rows (records) and 27 columns in total. The dataset can be obtained here: https://www.kaggle.com/code/mayank2896/lending-loan-logistic-regression/notebook.
+The dataset contains information about the past loans provided by LendingClub. There are 396030 rows (records) and 27 columns in total. The dataset can be obtained here: https://www.kaggle.com/code/mayank2896/lending-loan-logistic-regression/data?select=lending_club_loan_two.csv.
+### Users Instructions
+#### Step 1: Clone the GitHub repository
+`git clone congjun-huang/LendingClub_Loan_Prediction.git`   
+
+#### Step 2: Create a virtual environment for the project 
+
+#### Step 3: Install necessary packages
+`pip install -r requirements.txt`
+
+#### Step 4: Obtain dataset
+The dataset can be found here:  
+https://www.kaggle.com/code/mayank2896/lending-loan-logistic-regression/data?select=lending_club_loan_two.csv
+   
+#### Step 5: Run the code
+All the experiment results can be accessed here:
+https://github.com/congjun-huang/LendingClub_Loan_Prediction/tree/main/Code
